@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BestNote_cs.DataManager">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="BestNote_cs.DataManager.FileStructure" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DataManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AACAAAAgAAAAAAACAAEAEIACAAAAAIAIAIAAAAAIAAA=</HashCode>
+      <FileName>DataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BestNote_cs.DataManagerByMySQL">
+    <Position X="1.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAgAAAAAAJCAAEBEIACAAAAgIAIAIAAAAAIAQA=</HashCode>
+      <FileName>DataManagerByMySQL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BestNote_cs.DataManagerFactor">
+    <Position X="5.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataManagerFactor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BestNote_cs.MainWindow" Collapsed="true">
+    <Position X="8.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwSQEGECACAShAAKEUGAMABCKCQ8IQAIIBEAUACIAOA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="BestNote_cs.MainFunctions">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAACAAAAAAEAEAACKAAEAAAIAAAAAAAIAAA=</HashCode>
+      <FileName>MainFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

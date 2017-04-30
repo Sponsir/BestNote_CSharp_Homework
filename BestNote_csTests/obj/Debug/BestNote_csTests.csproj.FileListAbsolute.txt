@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_csTests\bin\Debug\BestNote_csTests.dll
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_csTests\bin\Debug\BestNote_csTests.pdb
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_csTests\bin\Debug\BestNote_cs.exe
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_csTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_csTests\bin\Debug\MySql.Data.dll
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_csTests\bin\Debug\BestNote_cs.pdb
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_csTests\bin\Debug\MySql.Data.xml
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_csTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_csTests\obj\Debug\BestNote_csTests.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_csTests\obj\Debug\BestNote_csTests.dll
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_csTests\obj\Debug\BestNote_csTests.pdb

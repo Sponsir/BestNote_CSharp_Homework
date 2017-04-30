@@ -1,0 +1,13 @@
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\bin\Debug\BestNote_cs.exe.config
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\bin\Debug\BestNote_cs.exe
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\bin\Debug\BestNote_cs.pdb
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\obj\Debug\BestNote_cs.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\obj\Debug\BestNote_cs.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\obj\Debug\BestNote_cs.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\obj\Debug\BestNote_cs.exe
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\obj\Debug\BestNote_cs.pdb
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\bin\Debug\MySql.Data.dll
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\bin\Debug\MySql.Data.xml
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\obj\Debug\BestNote_cs.MainWindow.resources
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\obj\Debug\BestNote_cs.RenameDialog.resources
+d:\documents\visual studio 2015\Projects\BestNote_cs\BestNote_cs\obj\Debug\BestNote_cs.AboutBox1.resources
